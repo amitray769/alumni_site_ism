@@ -1,3 +1,4 @@
+<!-- this is the alumni registration page -->
 <?php
 include ("user_fb_login.php");
 ?>
@@ -218,7 +219,7 @@ include ("user_fb_login.php");
                     <label>Gender *</label>
                     <input name="gender"type="radio" value="radio"/>
                     <label class="gender">Male</label>
-                    <input name="gender"type="radio" value="radio"/>
+                    <input name="gender" type="radio" value="radio"/>
                     <label class="gender">Female</label>
                 </p>
                 <p>
